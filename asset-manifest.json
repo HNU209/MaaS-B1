@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MaaS-B1/static/css/main.eed784c2.css",
+    "main.js": "/MaaS-B1/static/js/main.26eb19af.js",
+    "static/js/483.86c956c3.chunk.js": "/MaaS-B1/static/js/483.86c956c3.chunk.js",
+    "static/js/787.83ced95a.chunk.js": "/MaaS-B1/static/js/787.83ced95a.chunk.js",
+    "service-worker.js": "/MaaS-B1/service-worker.js",
+    "static/media/bus-stop.png": "/MaaS-B1/static/media/bus-stop.ce0015873e38112afb89.png",
+    "index.html": "/MaaS-B1/index.html",
+    "main.eed784c2.css.map": "/MaaS-B1/static/css/main.eed784c2.css.map",
+    "main.26eb19af.js.map": "/MaaS-B1/static/js/main.26eb19af.js.map",
+    "483.86c956c3.chunk.js.map": "/MaaS-B1/static/js/483.86c956c3.chunk.js.map",
+    "787.83ced95a.chunk.js.map": "/MaaS-B1/static/js/787.83ced95a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed784c2.css",
+    "static/js/main.26eb19af.js"
+  ]
+}
